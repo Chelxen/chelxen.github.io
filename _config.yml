@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chelsen Fang"
+  name             : "Changsheng Fang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Chelsen Fang's homepage"
-  location         : "Beijing, China"
+  bio              : "University of Massachusetts Lowell"
+  location         : "Boston, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=_kjdkGQAAAAJ"
   email            : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
