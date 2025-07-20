@@ -5,46 +5,59 @@ permalink: /photography/
 author_profile: true
 ---
 
-# Photography Portfolio
+<span class='anchor' id='photography'></span>
+
+# 📸 Photography Portfolio
 
 Welcome to my photography collection! Here you can find some of my favorite shots from various places and moments.
 
-## Landscape Photography
+## 🏔️ Landscape Photography
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <img src="/images/photo1.jpg" alt="Landscape 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-    <p style="margin-top: 10px; font-style: italic;">Mountain View</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="/images/photo2.jpg" alt="Landscape 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-    <p style="margin-top: 10px; font-style: italic;">Sunset at Beach</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="/images/photo3.jpg" alt="Landscape 3" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-    <p style="margin-top: 10px; font-style: italic;">City Skyline</p>
-  </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landscape</div><img src='images/photography/landscape1.jpg' alt="Mountain View" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mountain View**
+
+*Location: Rocky Mountains, Colorado*
+
+A breathtaking view of the snow-capped peaks during golden hour. The warm light creates a dramatic contrast against the cool mountain air.
+
+</div>
 </div>
 
-## Street Photography
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sunset</div><img src='images/photography/sunset1.jpg' alt="Beach Sunset" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <img src="/images/photo4.jpg" alt="Street 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-    <p style="margin-top: 10px; font-style: italic;">Street Life</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="/images/photo5.jpg" alt="Street 2" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-    <p style="margin-top: 10px; font-style: italic;">Urban Moments</p>
-  </div>
+**Beach Sunset**
+
+*Location: Malibu Beach, California*
+
+The perfect moment when the sun kisses the ocean horizon, creating a symphony of colors that dance across the sky.
+
+</div>
 </div>
 
-## Equipment
+## 🏙️ Urban Photography
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">City</div><img src='images/photography/city1.jpg' alt="City Skyline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**City Skyline**
+
+*Location: New York City*
+
+The iconic Manhattan skyline captured during blue hour, when the city lights begin to illuminate against the fading daylight.
+
+</div>
+</div>
+
+## 📱 Equipment & Technique
 
 - **Camera**: Sony A7III
 - **Lenses**: 24-70mm f/2.8, 70-200mm f/4
 - **Editing**: Lightroom & Photoshop
+- **Style**: Documentary and Fine Art Photography
 
 ---
 
-*All photos are taken by me during my travels and daily life. Feel free to reach out if you're interested in any particular shot or would like to collaborate on photography projects.* 
+*All photos are taken by me during my travels and daily life. Each image tells a story of the moment, the place, and the emotions captured through the lens.* 
