@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-**Hi there, I'm Changsheng Fang 👋**
+**Hi there,👋**
 
 I am currently a PhD student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
 
@@ -28,7 +28,7 @@ Beyond research, I enjoy photography, playing badminton, and exploring the outdo
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 My first journal paper was submitted to Arxiv. 
+- *2025.06*:  My first journal paper was submitted to Arxiv. 
 
 # 📝 Publications 
 
@@ -53,13 +53,9 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 </div>
 </div>
 
-- [A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447)
+- [A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447) Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
 
-Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
-
-- [Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666)
-
-**Changsheng Fang**, Xiangwei Huang, Kewen Xia
+- [Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666) **Changsheng Fang**, Xiangwei Huang, Kewen Xia
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
