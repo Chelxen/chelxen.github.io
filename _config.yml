@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chelsen Fang"
-description              : "Chelsen Fang's homepage"
+description              : "Focus on CT image reconstruction"
 repository               : "Che1senFang/che1senfang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Changsheng Fang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Massachusetts Lowell"
-  location         : "Boston, USA"
+  location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=_kjdkGQAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "changsheng_fang@student.uml.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

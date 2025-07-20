@@ -20,7 +20,7 @@ redirect_from:
 
 **Hi there, I'm Changsheng Fang 👋**
 
-I am currently a Ph.D. student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
+I am currently a PhD student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
 
 I am currently working under the supervision of Prof. Hengyong Yu <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on CT reconstruction. My research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating AI-generated content (AIGC) techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
 
@@ -53,7 +53,13 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447)
+
+Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
+
+- [Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666)
+
+**Changsheng Fang**, Xiangwei Huang, Kewen Xia
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
