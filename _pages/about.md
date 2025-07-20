@@ -20,7 +20,7 @@ redirect_from:
 
 **Hi there, I'm Changsheng Fang 👋**
 
-I am currently a Ph.D. student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell. I obtained my MS in Eletronic Information Engineering from Hong Kong Ploytechnic University (PolyU), Hong Kong, and BS in Electronic Information Science and Technology from Inner Mongolia University (IMU), China.
+I am currently a Ph.D. student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
 
 I am currently working under the supervision of Prof. Hengyong Yu <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on CT reconstruction. My research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating AI-generated content (AIGC) techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
 
@@ -28,20 +28,28 @@ Beyond research, I enjoy photography, playing badminton, and exploring the outdo
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 My first journal paper was submitted to Arxiv. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction](https://arxiv.org/abs/2506.06400)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Changsheng Fang**, Yongtong Liu, Bahareh Morovati, Shuo Han, Yu Shi, Li Zhou, Shuyi Fan, Hengyong Yu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/rho_nerf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[\rho-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction](https://arxiv.org/abs/2412.05322)
+
+Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun Xu, Hengyong Yu
+
 </div>
 </div>
 
@@ -54,7 +62,6 @@ Beyond research, I enjoy photography, playing badminton, and exploring the outdo
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *MSc*, Electronic Information Engineering, Hong Kong Polytechnic University. 
 - *BSc*, Electronic Information Science and Technology, Inner Mongolia University. 
 
 <!-- # 💬 Invited Talks -->
