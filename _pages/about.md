@@ -77,9 +77,7 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 
 <span class='anchor' id='photography'></span>
 
-Welcome to my photography collection! Here you can find some of my favorite shots from various places and moments.
-
-## 🏔️ Landscape Photography
+Welcome to my photography collection! Here you can find some of my shots from various places and moments.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landscape</div><img src='images/Photography/ReverseBird.jpg' alt="Revere Beach" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,12 +90,6 @@ A breathtaking view captured during golden hour. The warm light creates a dramat
 
 </div>
 </div>
-
-## 📱 Equipment & Technique
-
-- **Camera**: Fuji XS-10
-- **Lenses**: 70-300mm f/4, 18-55mm f/4, 27 f/1.2
-- **Editing**: Lightroom & Photoshop
 
 ---
 
