@@ -72,3 +72,33 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 📸 Photography
+
+<span class='anchor' id='photography'></span>
+
+Welcome to my photography collection! Here you can find some of my favorite shots from various places and moments.
+
+## 🏔️ Landscape Photography
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landscape</div><img src='images/Photography/ReverseBird.jpg' alt="Revere Beach" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Revere Beach**
+
+*Location: Revere Beach, Massachusetts*
+
+A breathtaking view captured during golden hour. The warm light creates a dramatic contrast against the cool ocean air.
+
+</div>
+</div>
+
+## 📱 Equipment & Technique
+
+- **Camera**: Fuji XS-10
+- **Lenses**: 70-300mm f/4, 18-55mm f/4, 27 f/1.2
+- **Editing**: Lightroom & Photoshop
+
+---
+
+*All photos are taken by me during my travels and daily life. Each image tells a story of the moment, the place, and the emotions captured through the lens.*
