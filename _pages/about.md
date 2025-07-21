@@ -53,9 +53,9 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 </div>
 </div>
 
-- [A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447) Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
+[A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447) Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
 
-- [Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666) **Changsheng Fang**, Xiangwei Huang, Kewen Xia
+[Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666) **Changsheng Fang**, Xiangwei Huang, Kewen Xia
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -64,6 +64,7 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *MSc*, Electronic Information Engineering, Hong Kong Polytechnic University. 
 - *BSc*, Electronic Information Science and Technology, Inner Mongolia University. 
 
 <!-- # 💬 Invited Talks -->
@@ -73,6 +74,3 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📸 Photography
-
-👉 [See my photography collection here!](/photography/)
