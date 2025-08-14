@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chelsen Fang"
+title                    : "Chelxen's homepage"
 description              : " "
-repository               : "Che1senFang/che1senfang.github.io"
+repository               : "Che1senFang/chelxen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Changsheng Fang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Massachusetts Lowell"
+  bio              : "Focusing on medical imaging and CT reconstruction"
   location         : "Boston, MA"
   employer         :
   pubmed           : 
