@@ -22,7 +22,7 @@ redirect_from:
 
 I am currently a PhD student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
 
-My research is under the supervision of Prof. Hengyong Yu <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on CT reconstruction. My research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating AI-generated content (AIGC) techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
+My research is under the supervision of [Prof. Hengyong Yu](https://sites.uml.edu/hengyong-yu/) <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on CT reconstruction. My research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating AI-generated content (AIGC) techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
 
 Beyond research, I enjoy photography📷, playing badminton🏸, and exploring the outdoors🎣⛷️🧗‍♂️.
 
@@ -46,7 +46,7 @@ Beyond research, I enjoy photography📷, playing badminton🏸, and exploring t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/rho_nerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [\rho-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction](https://arxiv.org/abs/2412.05322)
+- [$\rho$-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction](https://arxiv.org/abs/2412.05322)
 
 Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun Xu, Hengyong Yu
 
