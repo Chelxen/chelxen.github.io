@@ -22,7 +22,9 @@ redirect_from:
 
 I am currently a PhD student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
 
-My research is under the supervision of [Prof. Hengyong Yu](https://sites.uml.edu/hengyong-yu/) <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url={{ url | url_encode }}&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on CT reconstruction. My research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating AI-generated content (AIGC) techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
+I received my master’s degree from The Hong Kong Polytechnic University, where I was advised by [Prof. Kenneth Lam](https://www.eie.polyu.edu.hk/~enkmlam/). My research there focused on deep learning methods for low-light image enhancement.
+
+At UMass Lowell, I am working under the supervision of [Prof. Hengyong Yu](https://sites.uml.edu/hengyong-yu/) <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url={{ url | url_encode }}&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on Computed Tomography (CT) reconstruction. Our work is supported by the NIH-NIBIB and my research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating generated content techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
 
 Beyond research, I enjoy photography📷, playing badminton🏸, and exploring the outdoors🎣⛷️🧗‍♂️.
 
@@ -31,6 +33,15 @@ Beyond research, I enjoy photography📷, playing badminton🏸, and exploring t
 - *2025.06*:  My first journal paper was submitted to Arxiv. 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/wday_aaai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Large Language Model Evaluated Stand-alone Attention-Assisted Graph Neural Network with Spatial and Structural Information Interaction for Precise Endoscopic Image Segmentation](https://arxiv.org/abs/2508.07028)
+
+Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong Yu, Dayang Wang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
