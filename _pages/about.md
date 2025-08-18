@@ -88,7 +88,6 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 <div id="footer">
 	<div id="footer-text"></div>
 </div>
-	<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=q6JZWGXT2IjFkdr3egU1Ascp9OxJ72R8tOQbnf6EJfw&cl=ffffff&w=a"></script>
-  <p><center> &copy; Chelsen Fang </center></p>
-
-</div>
+<!-- 页脚和访客地图 -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=999595&w=a&t=tt&d=q6JZWGXT2IjFkdr3egU1Ascp9OxJ72R8tOQbnf6EJfw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<p style="text-align:center;">&copy; Chelsen Fang</p>
