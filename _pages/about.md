@@ -22,7 +22,7 @@ redirect_from:
 
 I am currently a PhD student with the Department of Electrical and Computer Engineering at University of Massachussets, Lowell.
 
-I received my master’s degree from Hong Kong Polytechnic University, where I was advised by [Prof. Kenneth Lam](https://www.eie.polyu.edu.hk/~enkmlam/). My research there focused on deep learning methods for low-light image enhancement.
+I received my master’s degree from Hong Kong Polytechnic University, where I was advised by [Prof. Kenneth Lam](https://www.eie.polyu.edu.hk/~enkmlam/). My research there focused on Deep Learning Mmethods for Low-Light Image Enhancement. I also work with [Prof.Kewen Xia](https://eweb.hebut.edu.cn/FacultySchools/SOEAIE/DS7/d5147b122e5c48a0ac195a950084a521.htm) on Intelligence Optimization Algorithm closly.
 
 At UMass Lowell, I am working under the supervision of [Prof. Hengyong Yu](https://sites.uml.edu/hengyong-yu/) <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url={{ url | url_encode }}&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on Computed Tomography (CT) reconstruction. Our work is supported by the NIH-NIBIB and my research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating generated content techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
 
@@ -88,6 +88,9 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 <div id="footer">
 	<div id="footer-text"></div>
 </div>
+<hr>
+
 <!-- 页脚和访客地图 -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=999595&w=a&t=tt&d=q6JZWGXT2IjFkdr3egU1Ascp9OxJ72R8tOQbnf6EJfw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 <p style="text-align:center;">&copy; Chelsen Fang</p>
+<!-- <p><center> &copy; Jack Ma </center></p> -->
