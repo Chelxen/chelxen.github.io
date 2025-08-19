@@ -26,7 +26,7 @@ I received my master’s degree from Hong Kong Polytechnic University, where I w
 
 At UMass Lowell, I am working under the supervision of [Prof. Hengyong Yu](https://sites.uml.edu/hengyong-yu/) <a href='https://scholar.google.com/citations?user=wQcl7k8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url={{ url | url_encode }}&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> on solving inverse problems in medical imaging, with a focus on Computed Tomography (CT) reconstruction. Our work is supported by the NIH-NIBIB and my research involves developing diffusion-based generative models and physics-informed frameworks to enhance image quality from sparse or limited-angle measurements. I am particularly interested in integrating generated content techniques with domain-specific priors to achieve high-fidelity and interpretable reconstructions in clinical applications.
 
-Beyond research, I enjoy photography📷, playing badminton🏸, and exploring the outdoors🎣⛷️🧗‍♂️.
+Outside of research, I love photography 📷 (and sometimes share posts on RedNote), playing badminton 🏸, and getting outdoors for things like fishing 🎣, skiing ⛷️, and climbing 🧗‍♂️.
 
 
 # 🔥 News
