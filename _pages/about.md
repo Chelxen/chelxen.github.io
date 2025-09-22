@@ -45,7 +45,7 @@ Haodong Li, Shuo Han, Haiyang Mao, Yu Shi, **Changsheng Fang**, Jianjia Zhang, W
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/yushi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/yushiTMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Clinical Metadata Guided Limited-Angle CT Image Reconstruction](https://arxiv.org/abs/2509.01752)
@@ -97,7 +97,7 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *M.Sc*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
+- *M.S*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
 - *B.Eng*, <a href="https://www.imu.edu.cn/"><img class="svg" src="/images/others/imu.png" width="24pt"></a> Electronic Information Science and Technology, Inner Mongolia University. 
 
 <!-- # 💬 Invited Talks -->
