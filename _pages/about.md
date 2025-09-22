@@ -30,9 +30,31 @@ Outside of research, I love photography 📷 (and sometimes share posts on RedNo
 
 
 # 🔥 News
-- *2025.06*:  My first journal paper was submitted to Arxiv. 
+
+- *2025.09*:  My first journal paper was accepted by IEEE TRPMS. 
+<!-- - *2025.06*:  My first journal paper was submitted to Arxiv.  -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/haodong1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Cross-Distribution Diffusion Priors-Driven Iterative Reconstruction for Sparse-View CT](https://arxiv.org/abs/2509.13576)
+
+Haodong Li, Shuo Han, Haiyang Mao, Yu Shi, **Changsheng Fang**, Jianjia Zhang, Weiwen Wu, Hengyong Yu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/yushi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Clinical Metadata Guided Limited-Angle CT Image Reconstruction](https://arxiv.org/abs/2509.01752)
+
+Yu Shi, Shuyi Fan, **Changsheng Fang**, Shuo Han, Haodong Li, Li Zhou, Bahareh Morovati, Dayang Wang, Hengyong Yu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/wday_aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,7 +65,7 @@ Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TRPMS</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction](https://arxiv.org/abs/2506.06400)
@@ -54,7 +76,7 @@ Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/rho_nerf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2025</div><img src='images/Publication/rho_nerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [$\rho$-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction](https://arxiv.org/abs/2412.05322)
@@ -75,8 +97,8 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *MSc*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
-- *BSc*, <a href="https://www.imu.edu.cn/"><img class="svg" src="/images/others/imu.png" width="24pt"></a> Electronic Information Science and Technology, Inner Mongolia University. 
+- *M.Sc*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
+- *B.Eng*, <a href="https://www.imu.edu.cn/"><img class="svg" src="/images/others/imu.png" width="24pt"></a> Electronic Information Science and Technology, Inner Mongolia University. 
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
