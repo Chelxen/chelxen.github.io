@@ -34,7 +34,7 @@ Outside of research, I love photography 📷 (and sometimes share posts on RedNo
 - *2025.09*:  My first journal paper was accepted by IEEE TRPMS. 
 <!-- - *2025.06*:  My first journal paper was submitted to Arxiv.  -->
 
-# 📝 Publications 
+# Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/haodong1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +65,7 @@ Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TRPMS</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Radiation and Plasma Medical Sciences</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction](https://arxiv.org/abs/2506.06400)
@@ -79,7 +79,7 @@ Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP2025</div><img src='images/Publication/rho_nerf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [$\rho$-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction](https://arxiv.org/abs/2412.05322)
+[$\rho$-NeRF: Leveraging Attenuation Priors in Neural Radiance Field for 3D Computed Tomography Reconstruction](https://arxiv.org/abs/2412.05322)
 
 Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun Xu, Hengyong Yu
 
@@ -94,7 +94,7 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+# Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *M.S*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
@@ -106,6 +106,12 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# Professional Activities
+## Reviewer of
+- IEEE Acess
+- Medical Physics
+- Journal of X-Ray Science and Technology
 
 <div id="footer">
 	<div id="footer-text"></div>
