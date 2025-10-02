@@ -34,11 +34,11 @@ Outside of research, I love photography 📷 (and sometimes share posts on RedNo
 - *2025.09*:  My first journal paper was accepted by IEEE TRPMS. 
 <!-- - *2025.06*:  My first journal paper was submitted to Arxiv.  -->
 
-# Publications 
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/haodong1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Cross-Distribution Diffusion Priors-Driven Iterative Reconstruction for Sparse-View CT](https://arxiv.org/abs/2509.13576)
+[Cross-Distribution Diffusion Priors-Driven Iterative Reconstruction for Sparse-View CT](https://arxiv.org/abs/2509.13576)
 
 Haodong Li, Shuo Han, Haiyang Mao, Yu Shi, **Changsheng Fang**, Jianjia Zhang, Weiwen Wu, Hengyong Yu
 
@@ -48,7 +48,7 @@ Haodong Li, Shuo Han, Haiyang Mao, Yu Shi, **Changsheng Fang**, Jianjia Zhang, W
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/yushiTMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Clinical Metadata Guided Limited-Angle CT Image Reconstruction](https://arxiv.org/abs/2509.01752)
+[Clinical Metadata Guided Limited-Angle CT Image Reconstruction](https://arxiv.org/abs/2509.01752)
 
 Yu Shi, Shuyi Fan, **Changsheng Fang**, Shuo Han, Haodong Li, Li Zhou, Bahareh Morovati, Dayang Wang, Hengyong Yu
 
@@ -58,7 +58,7 @@ Yu Shi, Shuyi Fan, **Changsheng Fang**, Shuo Han, Haodong Li, Li Zhou, Bahareh M
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/Publication/wday_aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Large Language Model Evaluated Stand-alone Attention-Assisted Graph Neural Network with Spatial and Structural Information Interaction for Precise Endoscopic Image Segmentation](https://arxiv.org/abs/2508.07028)
+[Large Language Model Evaluated Stand-alone Attention-Assisted Graph Neural Network with Spatial and Structural Information Interaction for Precise Endoscopic Image Segmentation](https://arxiv.org/abs/2508.07028)
 
 Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong Yu, Dayang Wang
 
@@ -68,7 +68,7 @@ Juntong Fan, Shuyi Fan, Debesh Jha, **Changsheng Fang**, Tieyong Zeng, Hengyong 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Radiation and Plasma Medical Sciences</div><img src='images/Publication/ResPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction](https://arxiv.org/abs/2506.06400)
+[ResPF: Residual Poisson Flow for Efficient and Physically Consistent Sparse-View CT Reconstruction](https://ieeexplore.ieee.org/document/11184486)
 
 **Changsheng Fang**, Yongtong Liu, Bahareh Morovati, Shuo Han, Yu Shi, Li Zhou, Shuyi Fan, Hengyong Yu
 
@@ -86,15 +86,15 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 </div>
 </div>
 
-- [A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447) Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
+[A Hybrid Equilibrium Optimizer Algorithm and Its Optimization for LSTM](https://ieeexplore.ieee.org/abstract/document/10335447) Ling Li, Yuqun Yang, **Changsheng Fang**, Kewen Xia
 
-- [Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666) **Changsheng Fang**, Xiangwei Huang, Kewen Xia
+[Optimal Design of FIR Filter Based on Improved Artificial Bee Colony Algorithm](https://ieeexplore.ieee.org/abstract/document/10036666) **Changsheng Fang**, Xiangwei Huang, Kewen Xia
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# Educations
+# 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *M.S*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
