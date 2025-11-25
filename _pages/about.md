@@ -32,6 +32,7 @@ Outside of research, I love photography 📷 (and sometimes share posts on RedNo
 # 🔥 News
 
 - *2025.09*:  My first journal paper was accepted by IEEE TRPMS. 
+- *2025.03*:  My paper was accepted by the 18th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine. 
 <!-- - *2025.06*:  My first journal paper was submitted to Arxiv.  -->
 
 # 📝 Publications 
@@ -94,11 +95,14 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *M.S*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
-- *B.Eng*, <a href="https://www.imu.edu.cn/"><img class="svg" src="/images/others/imu.png" width="24pt"></a> Electronic Information Science and Technology, Inner Mongolia University. 
+# 📖 Professional Activities
+## Reviewer of
+- IEEE Acess
+- Medical Physics
+- Journal of X-Ray Science and Technology
+
+<!-- - *M.S*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
+- *B.Eng*, <a href="https://www.imu.edu.cn/"><img class="svg" src="/images/others/imu.png" width="24pt"></a> Electronic Information Science and Technology, Inner Mongolia University.  -->
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -106,12 +110,6 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-# Professional Activities
-## Reviewer of
-- IEEE Acess
-- Medical Physics
-- Journal of X-Ray Science and Technology
 
 <div id="footer">
 	<div id="footer-text"></div>
@@ -121,4 +119,5 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 <!-- 页脚和访客地图 -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=999595&w=a&t=tt&d=q6JZWGXT2IjFkdr3egU1Ascp9OxJ72R8tOQbnf6EJfw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 <p style="text-align:center;">&copy; Chelsen Fang</p>
+<p style="text-align:center;">&copy; Last update: 11/25/2025</p>
 <!-- <p><center> &copy; Jack Ma </center></p> -->
