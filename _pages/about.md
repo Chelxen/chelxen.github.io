@@ -119,5 +119,5 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 <!-- 页脚和访客地图 -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=999595&w=a&t=tt&d=q6JZWGXT2IjFkdr3egU1Ascp9OxJ72R8tOQbnf6EJfw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 <p style="text-align:center;">&copy; Chelsen Fang</p>
-<p style="text-align:center;">&copy; Last update: 11/25/2025</p>
+<p style="text-align:center;">Last update: 11/25/2025</p>
 <!-- <p><center> &copy; Jack Ma </center></p> -->
