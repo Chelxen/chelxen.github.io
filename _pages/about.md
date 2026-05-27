@@ -31,6 +31,8 @@ Outside of research, I love photography 📷 (and sometimes share posts on RedNo
 
 # 🔥 News
 
+- *2026.06*:  I will be joining Subtle Medical in California as a Research & Development Intern.
+- *2026.03*:  My paper was accepted by The 9th International Conference on Image Formation in X-Ray Computed Tomography (CT Meeting), see you in Salt Lake City this June! 
 - *2025.09*:  My first journal paper was accepted by IEEE TRPMS. 
 - *2025.03*:  My paper was accepted by the 18th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine. 
 <!-- - *2025.06*:  My first journal paper was submitted to Arxiv.  -->
@@ -97,9 +99,11 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 
 # 📖 Professional Activities
 ## Reviewer of
-- IEEE Acess
+- IEEE Transaction on Medical Imaging
+- Biomedical Signal Processing and Control
 - Medical Physics
 - Journal of X-Ray Science and Technology
+- IEEE Acess
 
 <!-- - *M.S*, <a href="https://www.polyu.edu.hk/en/"><img class="svg" src="/images/others/polyu.png" width="24pt"></a> Electronic Information Engineering, Hong Kong Polytechnic University.
 - *B.Eng*, <a href="https://www.imu.edu.cn/"><img class="svg" src="/images/others/imu.png" width="24pt"></a> Electronic Information Science and Technology, Inner Mongolia University.  -->
@@ -119,5 +123,5 @@ Li Zhou, **Changsheng Fang**, Bahareh Morovati, Yongtong Liu, Shuo Han, Yongshun
 <!-- 页脚和访客地图 -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=999595&w=a&t=tt&d=q6JZWGXT2IjFkdr3egU1Ascp9OxJ72R8tOQbnf6EJfw&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 <p style="text-align:center;">&copy; Chelsen Fang</p>
-<p style="text-align:center;">Last update: 11/25/2025</p>
+<p style="text-align:center;">Last update: 05/27/2026</p>
 <!-- <p><center> &copy; Jack Ma </center></p> -->
