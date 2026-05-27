@@ -1,19 +1,23 @@
 # main links links
 main:
   - title: "About Me"
+    title_zh: "关于我"
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    title_zh: "近期动态"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    title_zh: "论文发表"
+    url: "/#publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
   - title: "Professional Activities"
-    url: "/#-professional-activities"
+    title_zh: "学术服务"
+    url: "/#professional-activities"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

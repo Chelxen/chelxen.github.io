@@ -8,6 +8,20 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  (function () {
+    var language = 'en';
+
+    try {
+      var match = window.location.search.match(/[?&]lang=(en|zh)(?:&|$)/);
+      language = (match && match[1]) || window.localStorage.getItem('site-language') || 'en';
+    } catch (error) {
+      language = 'en';
+    }
+
+    language = language === 'zh' ? 'zh' : 'en';
+    document.documentElement.lang = language === 'zh' ? 'zh-CN' : 'en';
+    document.documentElement.className += ' lang-' + language + ' ';
+  }());
 </script>
 
 <!-- For all browsers -->
