@@ -10,7 +10,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio"><span data-i18n-en="{{ author.bio | escape }}" data-i18n-zh="{{ author.bio_zh | default: author.bio | escape }}">{{ author.bio }}</span></p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -20,7 +20,7 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span data-i18n-en="{{ author.location | escape }}" data-i18n-zh="{{ author.location_zh | default: author.location | escape }}">{{ author.location }}</span></li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -29,7 +29,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <span data-i18n-en="Email" data-i18n-zh="邮箱">Email</span></a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -129,7 +129,7 @@
         <li>
           <a href="{{ author.rednote }}" target="_blank" rel="noopener">
             <img src="/images/others/Xiaohongshu.svg" alt="RedNote" style="width:1.6em;vertical-align:middle;" />
-            <span data-i18n-en="RedNote" data-i18n-zh="小红书">RedNote</span>
+            RedNote
           </a>
         </li>
       {% endif %}

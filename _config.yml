@@ -22,12 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Changsheng Fang"
-  name_zh          : "方昌晟"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Focusing on medical imaging and CT reconstruction"
-  bio_zh           : "专注于医学影像与 CT 重建"
   location         : "Greater Boston, MA"
-  location_zh      : "大波士顿地区，马萨诸塞州"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=_kjdkGQAAAAJ"
